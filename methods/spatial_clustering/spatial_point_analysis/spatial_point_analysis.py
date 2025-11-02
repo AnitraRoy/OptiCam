@@ -61,7 +61,7 @@ tree = cKDTree(camera_coords)
 distances, _ = tree.query(collision_coords, k=1)
 collisions_utm['distance_to_camera_m'] = distances
 
-# onvert back to lat/lon for mapping
+# convert back to lat/lon for mapping
 collisions_map = collisions_utm.to_crs(epsg=4326)
 cameras_map = cameras_utm.to_crs(epsg=4326)
 
