@@ -15,6 +15,7 @@ This project investigates whether Toronto's speed cameras are effectively locate
 - **Toronto Open Data Portal**
   - [Police Annual Statistical Report - Traffic Collisions](https://open.toronto.ca/dataset/police-annual-statistical-report-traffic-collisions/)
   - [Automated Speed Enforcement Locations](https://open.toronto.ca/dataset/automated-speed-enforcement-locations/)
+  - [Toronto Daily Weather Data (1937–2025)](https://www.kaggle.com/datasets/aliranjipour/toronto-weather-stats-nov-1937-jul-2025)
 
 ## Methods
 
@@ -23,6 +24,5 @@ The analysis follows a structured, data-driven approach consisting of the follow
 1. Exploratory Data Analysis (EDA)  
 2. Proximity Analysis  
 3. Statistical Testing (Chi-squared, t-tests)  
-4. Spatial Clustering (K-Means, DBSCAN)  
-5. Coverage Gap Analysis  
-6. Recommendation Modeling 
+4. Spatial Clustering (K-Means) and Coverage Gap Analysis (DBSCAN)  
+5. Recommendation Modeling 
