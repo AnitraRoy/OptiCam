@@ -17,14 +17,3 @@ Performs statistical hypothesis testing to examine the relationship between traf
 
 ---
 
-### **Next Steps**
-The next phase involves developing an **optimization model** to determine ideal camera placement.  
-This model will integrate:
-- Collision frequency  
-- Camera coverage  
-- Installation and maintenance costs  
-- Potential biases (e.g., neighborhood income or population density)  
-
-The goal is to maximize **traffic safety impact** while ensuring **cost-effectiveness and equitable deployment** across Toronto.
-
----
